@@ -10,7 +10,13 @@ is hard to maintain concurrently.
 People had ideas - SVN and CVS, but Linus was unhappy... so he disappeared
 for 2 weeks and came back with `git`.
 
-# How Git
+# How Git?
+
+## Installing:
+
+https://desktop.github.com/
+
+## Using:
 
 There are commands (in order):
 - clone
@@ -18,4 +24,9 @@ There are commands (in order):
 - commit
 - push
 - pull
+  - merge conflicts
 - reset
+
+**See I-need-to-be-fixed.md**
+
+# Education pack
