@@ -14,7 +14,19 @@ for 2 weeks and came back with `git`.
 
 ## Installing:
 
+Windows:
+
 https://desktop.github.com/
+
+Mac:
+
+Check if you have it by running `git --version` on a terminal.
+
+http://git-scm.com/download/mac if not or if you want a more updated one.
+
+Linux:
+
+`apt install git-all`, `pacman -S git`.
 
 ## Using:
 
@@ -30,3 +42,5 @@ There are commands (in order):
 **See I-need-to-be-fixed.md**
 
 # Education pack
+
+https://education.github.com/pack
