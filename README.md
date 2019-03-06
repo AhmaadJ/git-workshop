@@ -38,6 +38,8 @@ There are commands (in order):
 - pull
   - merge conflicts
 - reset
+- status
+- diff
 
 **See I-need-to-be-fixed.md**
 
